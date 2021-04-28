@@ -1,4 +1,4 @@
-package com.ashishbhoi.flutter_chat_app
+package com.ashishbhoi.chat.app
 
 import io.flutter.embedding.android.FlutterActivity
 
